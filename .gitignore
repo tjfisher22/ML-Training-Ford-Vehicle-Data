@@ -1,0 +1,54 @@
+# VS Code settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# General
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Git
+*.orig
+
+# Ignore system files
+Desktop.ini
+
+# VS Code extensions
+.history/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Test output
+junit.xml
+
+# Others
+*.sqlite3
+*.db
