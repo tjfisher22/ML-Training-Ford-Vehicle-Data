@@ -52,3 +52,6 @@ junit.xml
 # Others
 *.sqlite3
 *.db
+
+# Data
+data/
