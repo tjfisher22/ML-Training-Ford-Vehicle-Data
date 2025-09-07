@@ -55,3 +55,4 @@ junit.xml
 
 # Data
 data/
+Ford_Vehicle_Data/notebooks/*.csv
